@@ -1,0 +1,215 @@
+h1 {
+    text-align: center;
+    font-weight: 800;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+}
+.colors, .fonts, .styles {
+    border: 1px solid gray;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.fonts {
+    margin-top: 10px;
+}
+.styles {
+    margin-top: 10px;
+}
+.themes {
+    display: flex;
+    height: 5rem;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+  }
+  .themes p {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    font-weight: 800;
+    color: rgba(0, 0, 0,0.5);
+  }
+  
+  .themes:last-child {
+    margin-bottom: 10px;
+  }
+  
+  .themes > div {
+    flex-grow: 1;
+  }
+  
+  .themes > div:last-child {
+    border-right: 0;
+  }
+
+  /* theme1 colors */
+.theme1 .color1 {
+    background-color: #E27D60;
+    border: none;
+}
+
+.theme1 .color2 {
+    background-color: #85DCBA;
+    border: none;
+}
+
+.theme1 .color3 {
+    background-color: #E8A87C;
+    border: none;
+}
+
+.theme1 .color4 {
+    background-color: #C38D9E;
+    border: none;
+}
+
+.theme1 .color5 {
+    background-color: #41B3A3;
+    border: none;
+}
+
+ /* theme2 colors */
+.theme2 .color1 {
+    background-color: #242582;
+    border: none;
+}
+
+.theme2 .color2 {
+    background-color: #553D67;
+    border: none;
+}
+
+.theme2 .color3 {
+    background-color: #F64C72;
+    border: none;
+}
+
+.theme2 .color4 {
+    background-color: #99738E;
+    border: none;
+}
+
+.theme2 .color5 {
+    background-color: #2F2FA2;
+    border: none;
+}
+
+ /* theme3 colors */
+ .theme3 .color1 {
+    background-color: #8D8741;
+    border: none;
+}
+
+.theme3 .color2 {
+    background-color: #659DBD;
+    border: none;
+}
+
+.theme3 .color3 {
+    background-color: #DAAD86;
+    border: none;
+}
+
+.theme3 .color4 {
+    background-color: #BC986A;
+    border: none;
+}
+
+.theme3 .color5 {
+    background-color: #FBEEC1;
+    border: none;
+}
+
+/* theme3 colors */
+.theme4 .color1 {
+    background-color: #D79922;
+    border: none;
+}
+
+.theme4 .color2 {
+    background-color: #EFE2BA;
+    border: none;
+}
+
+.theme4 .color3 {
+    background-color: #F13C20;
+    border: none;
+}
+
+.theme4 .color4 {
+    background-color: #4056A1;
+    border: none;
+}
+
+.theme4 .color5 {
+    background-color: #C5CBE3;
+    border: none;
+}
+
+/* Font section styling */
+table {
+    width: 90%;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+thead td {
+    font-size: 26px;
+}
+tbody td {
+    border: 1px solid black;
+}
+
+.name{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.descp {
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.id11 {
+    font-family: 'Merriweather', serif;
+}
+
+.id12 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.id21 {
+    font-family:'Lora', serif;
+}
+
+.id22 {
+    font-family: 'Lato', sans-serif;
+}
+.id31 {
+    font-family: 'Source Serif Pro', serif;
+}
+
+.id32 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.id41 {
+    font-family: 'Playfair Display', serif;
+}
+
+.id42 {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+
+
+
